@@ -20,6 +20,5 @@ const App = () => {
       </Box>
     </Router>
   )
-};
-
-export default App;
+}
+export default App
